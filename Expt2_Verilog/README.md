@@ -18,6 +18,6 @@ To develop verilog modules for half adder, in 3 modelling (dataflow, structural,
 
 ### HalfAdder: [Behavioural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Behavioural.v)
 - **Description**: Half Adder - Behavioural
-- **Output**: [View Output]()https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Behavioural.png
+- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Behavioural.png)
 
 
