@@ -41,16 +41,6 @@ There are **4 experiments** in the **software lab (Verilog)** based on the diffe
    - Select **xc7a50ticsg32-1L** from the search results.
 7. Click **Next** → Click **Finish**.
 
-
-## 🔬 **Experiment 1: Realization of Logic Gates and Familiarization of Verilog**
-### 📌 **Aim**
- (i) Development of Verilog module for basic gates and verift truth table.
- (ii) Design and simulate HDL code to simulate POS and SOP
-
-
-
-
-
 ## 🔔 **Notes**
 - 🏆 All programs are converted to **RTL (Register Transfer Level)**.
 - 🧠 The experiments will help understand **digital logic design** using **Verilog HDL**.
