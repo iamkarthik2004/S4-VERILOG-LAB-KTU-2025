@@ -44,8 +44,8 @@ There are **4 experiments** in the **software lab (Verilog)** based on the diffe
 
 ## 🔬 **Experiment 1: Realization of Logic Gates and Familiarization of Verilog**
 ### 📌 **Aim**
-(i) Development of Verilog module for basic gates and verift truth table.
-(ii) Design and simulate HDL code to simulate POS and SOP
+ (i) Development of Verilog module for basic gates and verift truth table.
+ (ii) Design and simulate HDL code to simulate POS and SOP
 
 
 
