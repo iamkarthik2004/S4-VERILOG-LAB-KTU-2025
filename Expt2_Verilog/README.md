@@ -21,12 +21,12 @@ To develop verilog modules for half adder, in 3 modelling (dataflow, structural,
 - **Description**: FullAdder - Structural
 - **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.png)
 
-### FullAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.v)
+### FullAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Dataflow.v)
 - **Description**: Full Adder - Dataflow
--  **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.png)
+-  **Output**: [View Output](Same as Structural)
 
-### FullAdder: [Behavioural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Behavioural.v)
+### FullAdder: [Behavioural](Soon)
 - **Description**: Full Adder - Behavioural
-- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Behavioural.png)
+- **Output**: [View Output](Same as Stuructural)
 
 
