@@ -1,32 +1,18 @@
-# Experiment 5 - Verilog Lab 🖥️
-## Adders in Verilog
-### Date: 10-03-2025 📅
+# Experiment 3 - Verilog Lab 🖥️
+## MUX and DEMUX in Verilog
+### Date: 04-04-2025 📅
 
 ## AIM 🎯
-To develop verilog modules for half adder, in 3 modelling (dataflow, structural, behavioural) and to develop verilog modules for full adder, using half adder.
+To develop Verilog modules for a 4:1 MUX and 1:4 DEMUX
 
 ## Programs 💻
 
-### HALF ADDER
-### HalfAdder: [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Structural.v)
-- **Description**: Half Adder - Structural
-- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.png)
+### 4:1 MUX STRUCTURAL FLOW
+### [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt3_Verilog/4%3A1_Mux_Structural.v)
+- **Output**: [View Output]()
 
-### HalfAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.v)
-- **Description**: Hald Adder - Dataflow
--  **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.png)
 
-### FULL ADDER
-### FullAdder: [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.v)
-- **Description**: FullAdder - Structural
-- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.png)
-
-### FullAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Dataflow.v)
-- **Description**: Full Adder - Dataflow
--  **Output**: [View Output](Same as Structural)
-
-### FullAdder: [Behavioural](Soon)
-- **Description**: Full Adder - Behavioural
-- **Output**: [View Output](Same as Stuructural)
-
+### 1:4 DEMUX STRUCTURAL FLOW
+### [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt3_Verilog/1%3A4_Demux_Structural.v)
+- **Output**: [View Output]()
 
