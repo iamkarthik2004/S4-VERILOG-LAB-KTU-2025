@@ -1,32 +1,32 @@
-# Experiment 5 - Verilog Lab 🖥️
-## Adders in Verilog
-### Date: 10-03-2025 📅
+# Experiment 4 - Verilog Lab 🖥️
+## FLIP FLOPS and COUNTERS
+### Date: 04-04-2025 📅
 
 ## AIM 🎯
-To develop verilog modules for half adder, in 3 modelling (dataflow, structural, behavioural) and to develop verilog modules for full adder, using half adder.
+To develop verilog modules for SR, JK, D and T Flipflops, Ring and Johnson Counters.
 
 ## Programs 💻
 
-### HALF ADDER
-### HalfAdder: [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Structural.v)
-- **Description**: Half Adder - Structural
-- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.png)
+### SR FLIPFLOP
+### [Code]()
+- **Output**: [View Output]()
 
-### HalfAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.v)
-- **Description**: Hald Adder - Dataflow
--  **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/HalfAdder_Dataflow.png)
+### JK FLIPFLOP
+### [Code]()
+- **Output**: [View Output]()
 
-### FULL ADDER
-### FullAdder: [Structural](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.v)
-- **Description**: FullAdder - Structural
-- **Output**: [View Output](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Structural.png)
+### JK FLIPFLOP
+### [Code]()
+- **Output**: [View Output]()
 
-### FullAdder: [Dataflow](https://github.com/iamkarthik2004/S4-VERILOG-LAB-KTU-2025/blob/main/Expt2_Verilog/FullAdder_Dataflow.v)
-- **Description**: Full Adder - Dataflow
--  **Output**: [View Output](Same as Structural)
+### T FLIPFLOP
+### [Code]()
+- **Output**: [View Output]()
 
-### FullAdder: [Behavioural](Soon)
-- **Description**: Full Adder - Behavioural
-- **Output**: [View Output](Same as Stuructural)
+### RING COUNTERS
+### [Code]()
+- **Output**: [View Output]()
 
-
+### JOHNSON COUNTERS
+### [Code]()
+- **Output**: [View Output]()
